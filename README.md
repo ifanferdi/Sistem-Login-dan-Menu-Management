@@ -11,6 +11,3 @@ Created by: Ifan Ferdiansyah (Instagram: [@_ifanferdi](https://www.instagram.com
 <img src="https://user-images.githubusercontent.com/89011748/131628028-6ef300b5-5d9a-40f5-988c-18504cba3195.PNG" width="683" height="317"/>
 <img src="https://user-images.githubusercontent.com/89011748/131628036-3872be56-3707-4e92-afc4-6171abc2a883.PNG" width="683" height="317"/>
 <img src="https://user-images.githubusercontent.com/89011748/131628039-6c2d0528-454d-439e-9a4c-c9925d587121.PNG" width="683" height="317"/>
-
-
-
